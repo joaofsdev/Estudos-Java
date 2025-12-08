@@ -1,3 +1,5 @@
+package projetos.estudos.java;
+
 public class PraticaDasAulas01Ate05 {
     public static void main(String[] args) {
 
